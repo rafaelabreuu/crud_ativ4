@@ -84,7 +84,7 @@ void listarContatos() {
     }
 }
 
-// me explique cada parte do codigo abaixo, para eu entender o que acontece
+
 void buscarContato() {
     char nomeBusca[MAX_CHAR];
     printf("Digite o nome do contato a ser buscado: ");
